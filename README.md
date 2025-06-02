@@ -35,3 +35,8 @@ I analysed 59k+ Slack messages to understand why managers are constantly pulled 
 - Delayed response to real emergencies
 - Escalation fatigue across teams
 
+## Author
+Dereje W. Mekonnen
+derewor@gmail.com
+https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
+
