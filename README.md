@@ -37,6 +37,8 @@ I analysed 59k+ Slack messages to understand why managers are constantly pulled 
 
 ## Author
 Dereje W. Mekonnen
+
 derewor@gmail.com
+
 https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
 
