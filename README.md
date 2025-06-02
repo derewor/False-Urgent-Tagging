@@ -7,7 +7,7 @@ The project analyses the frequency of false urgent tagging of company managers.
 3. To chracterize test structure of false urgent messages.
 
 ## Structure
-Data:\ This folder in the repository contains the analyzed datasets used for visualization.
+Analyzed data:\ This folder in the repository contains the analyzed datasets used for visualization.
 
 src:\ This folder contains the jupyter notbook with an active code.
 
