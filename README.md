@@ -27,7 +27,8 @@ I analysed 59k+ Slack messages to understand why managers are constantly pulled 
 - Only 3.5% of manager tags were actually urgent
 - 71.8% of "urgent" requests took >24 hours to resolve
 
-**The False Urgency Pattern:** Non-urgent messages had telltale signs: ⚠️ 15-22% more exclamation marks (!) and question marks (?)
+**The False Urgency Pattern:** Non-urgent messages had telltale signs: 
+⚠️ 15-22% more exclamation marks (!) and question marks (?)
 
 **The Hidden Cost:** When 96.5% of manager escalations aren't truly urgent, we create:
 
